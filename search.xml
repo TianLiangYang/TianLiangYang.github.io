@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>小破站建设过程</title>
+      <link href="/posts/46deb284.html"/>
+      <url>/posts/46deb284.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="为啥想要建个人博客"><a href="#为啥想要建个人博客" class="headerlink" title="为啥想要建个人博客"></a>为啥想要建个人博客</h2><p>在做开发时，不可避免会遇到很多的问题，这些问题不出意外的话，大部分都会被解决掉，但是因为没有做记录，所以，经常会为了曾经发生过的问题做重复性的查找工作，所以就想要做个人博客用来记录。</p><h2 id="博客技术选型"><a href="#博客技术选型" class="headerlink" title="博客技术选型"></a>博客技术选型</h2><p>这个在刚开始做的时候，我是想要使用本地的服务器的，为此购买了两个机顶盒，还有一个树莓派，但最后发现有些麻烦，虽然可以学到很多东西，但目前暂时没那么多精力，所以最后选择了推荐和教程巨多的hexo搭建。</p><h2 id="hexo-搭建过程"><a href="#hexo-搭建过程" class="headerlink" title="hexo 搭建过程"></a>hexo 搭建过程</h2><p>整个过程跟着官网就可以，我是用的butterfly插件，这个插件也是推荐最多的，我建议可以先把博客搭起来，不要盲目去美化，要根据个人需求去做相应的优化。整个搭建我一共用时差不多一天，后来对样式做修改的时候尤其费时，因为我不是做前端的，对这些不熟悉，我建议没特殊需求的先不要搞样式，还是要尽快做出成品，再去修改。</p><p>在这里列几个对我搭建有帮助的链接，内容很全面，大家可按需索取，自行鉴别。</p><ul><li>hexo官网： <a href="https://hexo.io/zh-cn/index.html">https://hexo.io/zh-cn/index.html</a></li><li>一个博主的个人博客：<a href="https://www.wzhecnu.cn/categories/%E5%8D%9A%E5%AE%A2/">https://www.wzhecnu.cn/categories/%E5%8D%9A%E5%AE%A2/</a><br>新人可以跟着这个博主做，感觉逻辑还挺清晰的</li><li>butterfly美化教程：<a href="https://butterfly.zhheo.com/docs/function.html#%E5%8A%9F%E8%83%BD%E5%BC%80%E5%8F%91">https://butterfly.zhheo.com/docs/function.html#%E5%8A%9F%E8%83%BD%E5%BC%80%E5%8F%91</a><br>这个非常全面，有很多做博客的大佬</li></ul><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>这篇文章相当于第一篇正式文章吧，主要还是试手，熟练一下markdown语法，没什么干货，如果没能帮助到你，很遗憾（虽然我也不觉得会有什么人看）</p><p>我是黎明的🐏，谢谢观看</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
